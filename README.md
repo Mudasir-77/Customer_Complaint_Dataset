@@ -42,7 +42,7 @@ The dataset includes detailed information about consumer complaints and their re
   - Insight Generation  
 
 ## 🚀 Getting Started  
-1. Download the dataset from [Dataset Link](#).  
+1. Download the dataset.  
 2. Open the Excel file in this repository 
 3. Follow the step-by-step guide in the  sheet to recreate or customize the dashboard.  
 4. Explore trends and generate insights!   
